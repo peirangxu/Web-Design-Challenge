@@ -34,7 +34,7 @@
     }
     .navbar-collapse{
        background-color:white !important;
-       margin: -0.2rem -1rem -0.5em -1em;
+       margin: -0.2rem -1rem -2em -3.5em;
        padding: .5rem 1rem;
     }
   }
@@ -77,7 +77,7 @@ footer {
     border-top-color: #2eb8b8;
     text-align: center;
     background-color: darkgray;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width:100%;
     font-family: Arial, Helvetica, sans-serif;
